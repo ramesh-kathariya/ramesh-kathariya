@@ -2,15 +2,14 @@
 
 ### Ecologist & Researcher | Conservation Science | Biodiversity & Landscapes
 
-I'm an ecologist from Nepal working at the intersection of wildlife conservation, biodiversity monitoring, and mountain landscape management. Currently pursuing a PhD in Ecology at the Institute of Geographic Sciences and Natural Resources Research, Beijing, while contributing to research on resilient economies and landscapes across the Hindu Kush Himalaya.
+I'm an ecologist from Nepal working at the intersection of wildlife conservation, biodiversity monitoring, and mountain landscape management. I am currently pursuing a PhD in Ecology at the Institute of Geographic Sciences and Natural Resources Research, Beijing, while contributing to research on resilient economies and landscapes across the Hindu Kush Himalaya.
 
 - 🎓 PhD in Ecology (in progress) — Institute of Geographic Sciences and Natural Resources Research, Beijing
 - 🌱 Working on: **species distribution modelling, GIS-based hazard assessment, and habitat ecology**
 - 💬 Ask me about: **Nepal wildlife, otter conservation, iNaturalist, birdwatching, QGIS**
 - 📫 Reach me: **via [LinkedIn](https://www.linkedin.com/in/rameshkathariya/)
-- [ORCID](https://orcid.org/0000-0002-5923-4763)**
 - 🌐 Website: [ramesh-kathariya.github.io](https://ramesh-kathariya.github.io/)
-- Email
+- 📩 E-mail: rameshkathariya9@gmail.com
 
 ---
 
@@ -70,6 +69,17 @@ International Centre for Integrated Mountain Development (ICIMOD), Kathmandu
 ![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramesh-kathariya&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-kathariya&layout=compact)
 
+
+## <img width="348" height="180" alt="FollowButtonGIF" src="https://github.com/user-attachments/assets/b350f232-be9a-4765-af25-0cb02d521217" /> me on:
+![LinkedIn](https://www.linkedin.com/in/rameshkathariya/)
+![Instagram](https://www.instagram.com/ramesh.kathariya/)
+![Facebook](https://www.facebook.com/ramesh.kathariya.33)
+![Blue Sky](https://bsky.app/profile/ramesh-kathariya.bsky.social)
+![X](https://x.com/rameshkat_ya9)
+
+## ♾️ Research
+![Google Scholar](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
+![ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya)
 ---
 
 ## 🔗 Connect With Me
