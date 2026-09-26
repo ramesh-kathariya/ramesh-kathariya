@@ -70,16 +70,32 @@ International Centre for Integrated Mountain Development (ICIMOD), Kathmandu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-kathariya&layout=compact)
 
 
-## <img width="348" height="180" alt="FollowButtonGIF" src="https://github.com/user-attachments/assets/b350f232-be9a-4765-af25-0cb02d521217" /> me on:
-![LinkedIn](https://www.linkedin.com/in/rameshkathariya/)
-![Instagram](https://www.instagram.com/ramesh.kathariya/)
-![Facebook](https://www.facebook.com/ramesh.kathariya.33)
-![Blue Sky](https://bsky.app/profile/ramesh-kathariya.bsky.social)
-![X](https://x.com/rameshkat_ya9)
+## 👇Let's connect
+<!-- LinkedIn -->
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rameshkathariya/)
+<!-- Instagram -->
+[![Instagram](https://shields.io)](https://www.instagram.com/ramesh.kathariya/)
+
+<!-- Facebook -->
+[![Facebook](https://shields.io)](https://www.facebook.com/ramesh.kathariya.33))
+
+<!-- Bluesky -->
+[![Bluesky](https://shields.io)](https://bsky.app/profile/ramesh-kathariya.bsky.social)
+
+<!-- X (formerly Twitter) -->
+[![X](https://shields.io)](https://x.com/rameshkat_ya9)
+
+
+
 
 ## ♾️ Research
-![Google Scholar](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
-![ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya)
+
+<!-- Google Scholar -->
+[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
+
+<!-- ResearchGate -->
+[![ResearchGate](https://shields.io)](https://www.researchgate.net/profile/Ramesh-Kathariya)
+
 ---
 
 ## 🔗 Connect With Me
