@@ -83,7 +83,7 @@ International Centre for Integrated Mountain Development (ICIMOD), Kathmandu
 [![Bluesky](https://shields.io)](https://bsky.app/profile/ramesh-kathariya.bsky.social)
 
 <!-- X (formerly Twitter) -->
-[![X](https://shields.io)](https://x.com/rameshkat_ya9)
+[![X](https://x.com/rameshkat_ya9)
 
 
 
@@ -91,10 +91,10 @@ International Centre for Integrated Mountain Development (ICIMOD), Kathmandu
 ## ♾️ Research
 
 <!-- Google Scholar -->
-[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
+[![Google Scholar](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
 
 <!-- ResearchGate -->
-[![ResearchGate](https://shields.io)](https://www.researchgate.net/profile/Ramesh-Kathariya)
+[![ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya)
 
 ---
 
