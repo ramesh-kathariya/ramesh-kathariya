@@ -91,10 +91,10 @@ International Centre for Integrated Mountain Development (ICIMOD), Kathmandu
 ## ♾️ Research
 
 <!-- Google Scholar -->
-[![Google Scholar](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=sxHqlnIAAAAJ&hl=en)
 
 <!-- ResearchGate -->
-[![ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya)
+[ResearchGate](https://www.researchgate.net/profile/Ramesh-Kathariya)
 
 ---
 
